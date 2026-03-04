@@ -10,7 +10,7 @@
 - Git, Webpack, Figma
 
 ## 📈 Сайт открытка
-![Ваша сайт](https://napah0uk.github.io/)
+![Cайт](https://napah0uk.github.io/)
 
 ## 🔗 Контакты
 - [Email](mailto:jojo_o-mali@mail.ru)
